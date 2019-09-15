@@ -6,39 +6,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://tschutter.github.io/categories/blog.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/categories/cat_nikola.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/categories/demo.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/categories/nikola.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/categories/python.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/galleries/demo/rss.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/galleries/rss.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://tschutter.github.io/rss.xml</loc>
-  <lastmod>2019-09-15T23:13:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://tschutter.github.io/sitemap.xml</loc>
-  <lastmod>2019-09-15T23:17:00Z</lastmod>
+  <lastmod>2019-09-15T23:34:00Z</lastmod>
  </sitemap>
 </sitemapindex>
