@@ -6,112 +6,28 @@ import time
 # !!  You should edit it to your liking.  !! #
 
 
-# ! Some settings can be different in different languages.
-# ! A comment stating (translatable) is used to denote those.
-# ! There are two ways to specify a translatable setting:
-# ! (a) BLOG_TITLE = "My Blog"
-# ! (b) BLOG_TITLE = {"en": "My Blog", "es": "Mi Blog"}
-# ! Option (a) is used when you don't want that setting translated.
-# ! Option (b) is used for settings that are different in different languages.
-
-
 # Data about this site
-BLOG_AUTHOR = "Tom Schutter"  # (translatable)
-BLOG_TITLE = "tschutter"  # (translatable)
+BLOG_AUTHOR = "Tom Schutter"
+BLOG_TITLE = "tschutter"
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://tschutter.space/"
+SITE_URL = "https://tschutter.github.io/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://tschutter.space/"
+# BASE_URL = "https://tschutter.github.io/"
 BLOG_EMAIL = "t.schutter@comcast.net"
-BLOG_DESCRIPTION = "Tom's Memory Bank"  # (translatable)
-
-# Nikola is multilingual!
-#
-# Currently supported languages are:
-#
-# en        English
-# af        Afrikaans
-# ar        Arabic
-# az        Azerbaijani
-# bg        Bulgarian
-# bs        Bosnian
-# ca        Catalan
-# cs        Czech [ALTERNATIVELY cz]
-# da        Danish
-# de        German
-# el        Greek [NOT gr]
-# eo        Esperanto
-# es        Spanish
-# et        Estonian
-# eu        Basque
-# fa        Persian
-# fi        Finnish
-# fr        French
-# gl        Galician
-# he        Hebrew
-# hi        Hindi
-# hr        Croatian
-# hu        Hungarian
-# ia        Interlingua
-# id        Indonesian
-# it        Italian
-# ja        Japanese [NOT jp]
-# ko        Korean
-# lt        Lithuanian
-# ml        Malayalam
-# nb        Norwegian (Bokmål)
-# nl        Dutch
-# pa        Punjabi
-# pl        Polish
-# pt        Portuguese
-# pt_br     Portuguese (Brazil)
-# ru        Russian
-# sk        Slovak
-# sl        Slovene
-# sq        Albanian
-# sr        Serbian (Cyrillic)
-# sr_latin  Serbian (Latin)
-# sv        Swedish
-# te        Telugu
-# th        Thai
-# tr        Turkish [NOT tr_TR]
-# uk        Ukrainian
-# ur        Urdu
-# vi        Vietnamese
-# zh_cn     Chinese (Simplified)
-# zh_tw     Chinese (Traditional)
-#
-# If you want to use Nikola with a non-supported language you have to provide
-# a module containing the necessary translations
-# (cf. the modules at nikola/data/themes/base/messages/).
-# If a specific post is not translated to a language, then the version
-# in the default language will be shown instead.
+BLOG_DESCRIPTION = "Tom's Site"
 
 # What is the default language?
 DEFAULT_LANG = "en"
 
 # What other languages do you have?
-# The format is {"translationcode" : "path/to/translation" }
-# the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
-    DEFAULT_LANG: "",
-    # Example for another language:
-    # "es": "./es",
+    DEFAULT_LANG: ""
 }
-
-# What will translated input files be named like?
-
-# If you have a page something.rst, then something.pl.rst will be considered
-# its Polish translation.
-#     (in the above example: path == "something", ext == "rst", lang == "pl")
-# this pattern is also used for metadata:
-#     something.meta -> something.pl.meta
-
 TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
-# Links for the sidebar / navigation bar.  (translatable)
+# Links for the sidebar / navigation bar.
 # This is a dict.  The keys are languages, and values are tuples.
 #
 # For regular links:
@@ -145,7 +61,7 @@ NAVIGATION_LINKS = {
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
-# although themes may not always support them. (translatable)
+# although themes may not always support them.
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
 NAVIGATION_ALT_LINKS = {
     DEFAULT_LANG: {}
@@ -158,7 +74,7 @@ THEME = "bootblog4"
 # Must be a HEX value.
 THEME_COLOR = '#5670d4'
 
-# Theme configuration. Fully theme-dependent. (translatable)
+# Theme configuration. Fully theme-dependent.
 # Examples below are for bootblog4.
 # bootblog4 supports: featured_large featured_small featured_on_mobile
 #                     featured_large_image_on_mobile featured_strip_html sidebar
@@ -182,7 +98,6 @@ THEME_CONFIG = {
 }
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
-# (translatable)
 #
 # The wildcard is used to generate a list of source files
 # (whatever/thing.rst, for example).
@@ -240,17 +155,16 @@ PAGES = (
 # you can use the ISO 8601/RFC 3339 format (ex. 2012-03-30T23:00:00+02:00)
 TIMEZONE = "America/Denver"
 
-# If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
-# (especially in new_post), set this to True.
+# Use ISO 8601 (also valid RFC 3339) throughout Nikola.
 # Note that this does not affect DATE_FORMAT.
-# FORCE_ISO8601 = False
+FORCE_ISO8601 = True
 
-# Date format used to display post dates. (translatable)
+# Date format used to display post dates.
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
 # DATE_FORMAT = 'YYYY-MM-dd HH:mm'
 
-# Date format used to display post dates, if local dates are used. (translatable)
+# Date format used to display post dates, if local dates are used.
 # Used by moment.js: https://momentjs.com/docs/#/displaying/format/
 # JS_DATE_FORMAT = 'YYYY-MM-DD HH:mm'
 
@@ -347,7 +261,6 @@ COMPILERS = {
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag RSS_EXTENSION (RSS feed for a tag)
-# (translatable)
 # TAG_PATH = "categories"
 
 # By default, the list of tags is stored in
@@ -355,7 +268,6 @@ COMPILERS = {
 # (see explanation for TAG_PATH). This location can be changed to
 #     output / TRANSLATION[lang] / TAGS_INDEX_PATH
 # with an arbitrary relative path TAGS_INDEX_PATH.
-# (translatable)
 # TAGS_INDEX_PATH = "tags.html"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
@@ -409,7 +321,6 @@ HIDDEN_TAGS = ['mathjax']
 # output / TRANSLATION[lang] / CATEGORY_PATH / index.html (list of categories)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category.html (list of posts for a category)
 # output / TRANSLATION[lang] / CATEGORY_PATH / CATEGORY_PREFIX category RSS_EXTENSION (RSS feed for a category)
-# (translatable)
 # CATEGORY_PATH = "categories"
 # CATEGORY_PREFIX = "cat_"
 
@@ -418,7 +329,6 @@ HIDDEN_TAGS = ['mathjax']
 # (see explanation for CATEGORY_PATH). This location can be changed to
 #     output / TRANSLATION[lang] / CATEGORIES_INDEX_PATH
 # with an arbitrary relative path CATEGORIES_INDEX_PATH.
-# (translatable)
 # CATEGORIES_INDEX_PATH = "categories.html"
 
 # If CATEGORY_ALLOW_HIERARCHIES is set to True, categories can be organized in
@@ -482,7 +392,7 @@ HIDDEN_CATEGORIES = []
 # If True, only the first directory of a path will be used.
 # CATEGORY_DESTPATH_FIRST_DIRECTORY_ONLY = True
 
-# Map paths to prettier category names. (translatable)
+# Map paths to prettier category names.
 # CATEGORY_DESTPATH_NAMES = {
 #    DEFAULT_LANG: {
 #        'webdev': 'Web Development',
@@ -507,7 +417,6 @@ HIDDEN_CATEGORIES = []
 # output / TRANSLATION[lang] / AUTHOR_PATH / index.html (list of authors)
 # output / TRANSLATION[lang] / AUTHOR_PATH / author.html (list of posts by an author)
 # output / TRANSLATION[lang] / AUTHOR_PATH / author RSS_EXTENSION (RSS feed for an author)
-# (translatable)
 # AUTHOR_PATH = "authors"
 
 # If AUTHOR_PAGES_ARE_INDEXES is set to True, each author's page will contain
@@ -532,11 +441,10 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# (translatable)
 # INDEX_PATH = ""
 
 # Optional HTML that displayed on “main” blog index.html files.
-# May be used for a greeting. (translatable)
+# May be used for a greeting.
 FRONT_INDEX_HEADER = {
     DEFAULT_LANG: ''
 }
@@ -557,7 +465,6 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
-# (translatable)
 # ARCHIVE_PATH = ""
 # ARCHIVE_FILENAME = "archive.html"
 
@@ -576,21 +483,17 @@ FRONT_INDEX_HEADER = {
 # RSS_EXTENSION = ".xml"
 
 # RSS filename base (without extension); used for indexes and galleries.
-# (translatable)
 # RSS_FILENAME_BASE = "rss"
 
 # Final location for the blog main RSS feed is:
 # output / TRANSLATION[lang] / RSS_PATH / RSS_FILENAME_BASE RSS_EXTENSION
-# (translatable)
 # RSS_PATH = ""
 
 # Final location for the blog main Atom feed is:
 # output / TRANSLATION[lang] / ATOM_PATH / ATOM_FILENAME_BASE ATOM_EXTENSION
-# (translatable)
 # ATOM_PATH = ""
 
 # Atom filename base (without extension); used for indexes.
-# (translatable)
 ATOM_FILENAME_BASE = "feed"
 
 # Extension for Atom feed files
@@ -814,10 +717,10 @@ IMAGE_FOLDERS = {'images': 'images'}
 # INDEXES_PAGES defaults to ' old posts, page %d' or ' page %d' (translated),
 # depending on the value of INDEXES_PAGES_MAIN.
 #
-# (translatable) If the following is empty, defaults to BLOG_TITLE:
+# If the following is empty, defaults to BLOG_TITLE:
 # INDEXES_TITLE = ""
 #
-# (translatable) If the following is empty, defaults to ' [old posts,] page %d' (see above):
+# If the following is empty, defaults to ' [old posts,] page %d' (see above):
 # INDEXES_PAGES = ""
 #
 # If the following is True, INDEXES_PAGES is also displayed on the main (the
@@ -833,7 +736,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # to other index pages when new posts are added.
 # INDEXES_STATIC = True
 #
-# (translatable) If PRETTY_URLS is set to True, this setting will be used to create
+# If PRETTY_URLS is set to True, this setting will be used to create
 # prettier URLs for index pages, such as page/2/index.html instead of index-2.html.
 # Valid values for this settings are:
 #   * False,
@@ -897,9 +800,9 @@ IMAGE_FOLDERS = {'images': 'images'}
 # {{                            A literal { (U+007B LEFT CURLY BRACKET)
 # }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
-# 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
+# 'Read more...' for the index page, if INDEX_TEASERS is True
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
-# 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
+# 'Read more...' for the feeds, if FEED_TEASERS is True
 FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the FEED_READ_MORE_LINK in Atom and RSS feeds. Advanced
@@ -913,7 +816,6 @@ FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_re
 FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
-# (translatable)
 LICENSE = ""
 # I recommend using the Creative Commons' wizard:
 # https://creativecommons.org/choose/
@@ -924,7 +826,6 @@ LICENSE = ""
 # src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"></a>"""
 
 # A small copyright notice for the page footer (in HTML).
-# (translatable)
 CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
@@ -939,7 +840,6 @@ CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{autho
 # WARNING: If you do not use multiple languages with CONTENT_FOOTER, this
 #          still needs to be a dict of this format.  (it can be empty if you
 #          do not need formatting)
-# (translatable)
 CONTENT_FOOTER_FORMATS = {
     DEFAULT_LANG: (
         (),
@@ -1087,7 +987,6 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Social buttons. This is sample code for AddThis (which was the default for a
 # long time). Insert anything you want here, or even make it empty (which is
 # the default right now)
-# (translatable)
 # SOCIAL_BUTTONS_CODE = """
 # <!-- Social buttons -->
 # <div id="addthisbox" class="addthis_toolbox addthis_peekaboo_style addthis_default_style addthis_label_style addthis_32x32_style">
@@ -1144,7 +1043,6 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # custom search (https://www.google.com/cse/)
 # Or a DuckDuckGo search: https://duckduckgo.com/search_box.html
 # Default is no search form.
-# (translatable)
 # SEARCH_FORM = ""
 #
 # This search form works for any site and looks good in the "site" theme where
@@ -1173,7 +1071,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # <input type="text" name="q" class="form-control" placeholder="Search">
 # </div>
 # <button type="submit" class="btn btn-primary">
-# 	<span class="glyphicon glyphicon-search"></span>
+#       <span class="glyphicon glyphicon-search"></span>
 # </button>
 # <input type="hidden" name="sitesearch" value="%s">
 # </form>
@@ -1196,11 +1094,9 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
-# (translatable)
 # EXTRA_HEAD_DATA = ""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
-# (translatable)
 # BODY_END = ""
 
 # The possibility to extract metadata from the filename by using a
