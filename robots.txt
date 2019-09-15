@@ -1,4 +1,4 @@
-Sitemap: https://tschutter.space/sitemapindex.xml
+Sitemap: https://tschutter.github.io/sitemapindex.xml
 
 User-Agent: *
-Host: tschutter.space
+Host: tschutter.github.io

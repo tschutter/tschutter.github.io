@@ -6,119 +6,119 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://tschutter.space/</loc>
+  <loc>https://tschutter.github.io/</loc>
+  <lastmod>2019-09-15T23:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/2012/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/2012/</loc>
+  <loc>https://tschutter.github.io/archive.html</loc>
+  <lastmod>2019-09-15T23:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/categories/</loc>
+  <lastmod>2019-09-15T23:13:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/categories/blog/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/archive.html</loc>
-  <lastmod>2019-09-15T22:59:00Z</lastmod>
- </url>
- <url>
-  <loc>https://tschutter.space/categories/</loc>
+  <loc>https://tschutter.github.io/categories/cat_nikola/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/categories/blog/</loc>
+  <loc>https://tschutter.github.io/categories/demo/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/categories/cat_nikola/</loc>
+  <loc>https://tschutter.github.io/categories/nikola/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/categories/demo/</loc>
+  <loc>https://tschutter.github.io/categories/python/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/categories/nikola/</loc>
-  <lastmod>2019-09-15T22:57:00Z</lastmod>
+  <loc>https://tschutter.github.io/galleries/</loc>
+  <lastmod>2019-09-15T23:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/categories/python/</loc>
-  <lastmod>2019-09-15T22:57:00Z</lastmod>
+  <loc>https://tschutter.github.io/galleries/demo/</loc>
+  <lastmod>2019-09-15T23:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/galleries/</loc>
+  <loc>https://tschutter.github.io/listings/</loc>
   <lastmod>2019-09-15T22:56:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/galleries/demo/</loc>
+  <loc>https://tschutter.github.io/listings/__pycache__/</loc>
   <lastmod>2019-09-15T22:56:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/listings/</loc>
-  <lastmod>2019-09-15T22:56:00Z</lastmod>
+  <loc>https://tschutter.github.io/listings/hello.py.html</loc>
+  <lastmod>2019-09-15T23:13:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/listings/__pycache__/</loc>
-  <lastmod>2019-09-15T22:56:00Z</lastmod>
- </url>
- <url>
-  <loc>https://tschutter.space/listings/hello.py.html</loc>
-  <lastmod>2019-09-15T22:59:00Z</lastmod>
- </url>
- <url>
-  <loc>https://tschutter.space/pages/about-nikola/</loc>
+  <loc>https://tschutter.github.io/pages/about-nikola/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/bootstrap-demo/</loc>
+  <loc>https://tschutter.github.io/pages/bootstrap-demo/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/charts/</loc>
+  <loc>https://tschutter.github.io/pages/charts/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/creating-a-theme/</loc>
+  <loc>https://tschutter.github.io/pages/creating-a-theme/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/dr-nikolas-vendetta/</loc>
+  <loc>https://tschutter.github.io/pages/dr-nikolas-vendetta/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/extending/</loc>
+  <loc>https://tschutter.github.io/pages/extending/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/handbook/</loc>
+  <loc>https://tschutter.github.io/pages/handbook/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/internals/</loc>
+  <loc>https://tschutter.github.io/pages/internals/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/listings-demo/</loc>
+  <loc>https://tschutter.github.io/pages/listings-demo/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/path-handlers/</loc>
+  <loc>https://tschutter.github.io/pages/path-handlers/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/quickref/</loc>
+  <loc>https://tschutter.github.io/pages/quickref/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/quickstart/</loc>
+  <loc>https://tschutter.github.io/pages/quickstart/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/social_buttons/</loc>
+  <loc>https://tschutter.github.io/pages/social_buttons/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/pages/theming/</loc>
+  <loc>https://tschutter.github.io/pages/theming/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
-  <loc>https://tschutter.space/posts/welcome-to-nikola/</loc>
+  <loc>https://tschutter.github.io/posts/welcome-to-nikola/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
 </urlset>
