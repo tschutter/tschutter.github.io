@@ -6,39 +6,39 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://tschutter.github.io/categories/blog.xml</loc>
+  <loc>https://tschutter.space/categories/blog.xml</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/categories/cat_nikola.xml</loc>
+  <loc>https://tschutter.space/categories/cat_nikola.xml</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/categories/demo.xml</loc>
+  <loc>https://tschutter.space/categories/demo.xml</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/categories/nikola.xml</loc>
+  <loc>https://tschutter.space/categories/nikola.xml</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/categories/python.xml</loc>
+  <loc>https://tschutter.space/categories/python.xml</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/galleries/demo/rss.xml</loc>
+  <loc>https://tschutter.space/galleries/demo/rss.xml</loc>
   <lastmod>2019-09-15T22:56:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/galleries/rss.xml</loc>
+  <loc>https://tschutter.space/galleries/rss.xml</loc>
   <lastmod>2019-09-15T22:56:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/rss.xml</loc>
+  <loc>https://tschutter.space/rss.xml</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://tschutter.github.io/sitemap.xml</loc>
-  <lastmod>2019-09-15T22:57:00Z</lastmod>
+  <loc>https://tschutter.space/sitemap.xml</loc>
+  <lastmod>2019-09-15T22:59:00Z</lastmod>
  </sitemap>
 </sitemapindex>
