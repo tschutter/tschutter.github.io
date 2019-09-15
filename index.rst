@@ -8,5 +8,5 @@
 .. description:
 .. type: text
 
-* `tschutter Culinary Recipes <http://tschutter.github.io/recipes/>`
-* `tschutter @ GitHub <https://github.com/tschutter>`
+* `tschutter Culinary Recipes <http://tschutter.github.io/recipes/>`_
+* `tschutter @ GitHub <https://github.com/tschutter>`_
