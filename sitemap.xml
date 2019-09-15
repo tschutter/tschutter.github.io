@@ -7,15 +7,27 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://tschutter.github.io/</loc>
-  <lastmod>2019-09-15T23:17:00Z</lastmod>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/2012/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://tschutter.github.io/about-nikola/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://tschutter.github.io/archive.html</loc>
-  <lastmod>2019-09-15T23:17:00Z</lastmod>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/blog/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/bootstrap-demo/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/categories/</loc>
@@ -42,12 +54,40 @@
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://tschutter.github.io/charts/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/creating-a-theme/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/dr-nikolas-vendetta/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/extending/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://tschutter.github.io/galleries/</loc>
   <lastmod>2019-09-15T23:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/galleries/demo/</loc>
   <lastmod>2019-09-15T23:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/handbook/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/internals/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/listings-demo/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/listings/</loc>
@@ -122,7 +162,27 @@
   <lastmod>2019-09-15T22:57:00Z</lastmod>
  </url>
  <url>
+  <loc>https://tschutter.github.io/path-handlers/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://tschutter.github.io/posts/welcome-to-nikola/</loc>
   <lastmod>2019-09-15T22:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/quickref/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/quickstart/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/social_buttons/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/theming/</loc>
+  <lastmod>2019-09-15T23:44:00Z</lastmod>
  </url>
 </urlset>

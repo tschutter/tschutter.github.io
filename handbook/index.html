@@ -4,15 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Nikola Handbook | tschutter</title>
-<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
 <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
 <meta name="theme-color" content="#5670d4">
 <meta name="generator" content="Nikola (getnikola.com)">
-<link rel="canonical" href="https://tschutter.github.io/pages/handbook/">
-<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="The Nikola Team">
+<link rel="canonical" href="https://tschutter.github.io/handbook/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="The Nikola Team">
 <meta property="og:site_name" content="tschutter">
 <meta property="og:title" content="The Nikola Handbook">
-<meta property="og:url" content="https://tschutter.github.io/pages/handbook/">
+<meta property="og:url" content="https://tschutter.github.io/handbook/">
 <meta property="og:description" content="Version:
 8.0.2
 
@@ -70,10 +70,10 @@ Metad">
 </header><nav class="navbar navbar-expand-md navbar-light bg-white static-top"><div class="collapse navbar-collapse bs-nav-collapsible" id="bs-navbar">
             <ul class="navbar-nav nav-fill d-flex w-100">
 <li class="nav-item">
-<a href="../../archive.html" class="nav-link">Archive</a>
+<a href="../archive.html" class="nav-link">Archive</a>
                 </li>
 <li class="nav-item">
-<a href="../../categories/" class="nav-link">Tags</a>
+<a href="../categories/" class="nav-link">Tags</a>
 
                 
             </li>
@@ -1410,7 +1410,7 @@ object, it will be available as <tt class="docutils literal">site</tt>. Use with
 <p class="first admonition-title">Note</p>
 <p class="last">Template-based shortcodes use the same template engine as your site’s theme.</p>
 </div>
-<p>See <a class="reference external" href="../extending/">Extending Nikola</a> for detailed information.</p>
+<p>See <a class="reference external" href="../pages/extending/">Extending Nikola</a> for detailed information.</p>
 <p>For example, if your <tt class="docutils literal">shortcodes/foo.tmpl</tt> contains this:</p>
 <pre class="code text"><a name="rest_code_b14126b700144397b883ff91b9d22eae-1"></a>This uses the bar variable: ${bar}
 </pre>
@@ -1529,7 +1529,7 @@ file under <tt class="docutils literal">files/</tt> or in your theme and then it
 <tt class="docutils literal">&lt;head&gt;</tt> blocks of your site pages.  Create it and put your CSS code there,
 for minimal disruption of the provided CSS files.</p>
 <p>If you feel tempted to touch other files in assets, you probably will be better off
-with a <a class="reference external" href="../theming/">custom theme</a>.</p>
+with a <a class="reference external" href="../pages/theming/">custom theme</a>.</p>
 <p class="last">If you want to use <a class="reference external" href="http://lesscss.org/">LESS</a> or <a class="reference external" href="http://sass-lang.com/">Sass</a> for your custom CSS, or the theme you use
 contains LESS or Sass code that you want to override, you will need to install
 the <a class="reference external" href="https://plugins.getnikola.com/#less">LESS plugin</a> or
@@ -1541,7 +1541,7 @@ there and a targets file containing the list of files you want compiled.</p>
 <dl class="docutils">
 <dt>Template tweaking and creating themes</dt>
 <dd>If you really want to change the pages radically, you will want to do a
-<a class="reference external" href="../theming/">custom theme</a>.</dd>
+<a class="reference external" href="../pages/theming/">custom theme</a>.</dd>
 <dt>Navigation Links</dt>
 <dd>
 <p class="first">The <tt class="docutils literal">NAVIGATION_LINKS</tt> option lets you define what links go in a sidebar or menu
@@ -1669,8 +1669,8 @@ change the FILES_FOLDERS option:</p>
 <h2><a class="toc-backref" href="#id67">Custom Themes</a></h2>
 <p>If you prefer to have a custom appearance for your site, and modifying CSS
 files and settings (see <a class="reference internal" href="#customizing-your-site">Customizing Your Site</a> for details) is not enough,
-you can create your own theme. See the <a class="reference external" href="../theming/">Theming Nikola</a> and
-<a class="reference external" href="../creating-a-theme/">Creating a Theme</a> for more details. You can put them in a <tt class="docutils literal">themes/</tt>
+you can create your own theme. See the <a class="reference external" href="../pages/theming/">Theming Nikola</a> and
+<a class="reference external" href="../pages/creating-a-theme/">Creating a Theme</a> for more details. You can put them in a <tt class="docutils literal">themes/</tt>
 folder and set <tt class="docutils literal">THEME</tt> to the directory name.  You can also put them in
 directories listed in the <tt class="docutils literal">EXTRA_THEMES_DIRS</tt> configuration variable.</p>
 </div>
@@ -1957,7 +1957,7 @@ will be excluded in the gallery page.</p>
 <p>If <tt class="docutils literal">USE_FILENAME_AS_TITLE</tt> is True the filename (parsed as a readable string)
 is used as the photo caption. If the filename starts with a number, it will
 be stripped. For example <tt class="docutils literal">03_an_amazing_sunrise.jpg</tt> will be render as <em>An amazing sunrise</em>.</p>
-<p>Here is a <a class="reference external" href="../../galleries/demo">demo gallery</a> of historic, public domain Nikola
+<p>Here is a <a class="reference external" href="../galleries/demo">demo gallery</a> of historic, public domain Nikola
 Tesla pictures taken from <a class="reference external" href="http://kerryr.net/pioneers/gallery/tesla.htm">this site</a>.</p>
 <div class="section" id="embedding-images">
 <h3><a class="toc-backref" href="#id75">Embedding Images</a></h3>
@@ -2522,13 +2522,13 @@ a list of values, one series per line.</p>
 </pre>
 <p>In this case we are giving the portion of text we want to link. So, the result will be:</p>
 <blockquote>
-Take a look at <a class="reference external" href="../creating-a-theme/">my other post</a> about theme creating.</blockquote>
+Take a look at <a class="reference external" href="../pages/creating-a-theme/">my other post</a> about theme creating.</blockquote>
 <p>If we want to use the post's title as the link's text, just do:</p>
 <pre class="code restructuredtext"><a name="rest_code_5c8b365ae37c45c8a0d82911065e58d6-1"></a>Take a look at <span class="na">:doc:</span><span class="nv">`creating-a-theme`</span> to know how to do it.
 </pre>
 <p>and it will produce:</p>
 <blockquote>
-Take a look at <a class="reference external" href="../creating-a-theme/">Creating a Theme</a> to know how to do it.</blockquote>
+Take a look at <a class="reference external" href="../pages/creating-a-theme/">Creating a Theme</a> to know how to do it.</blockquote>
 <p>The reference in angular brackets should be the <cite>slug</cite> for the target page. It supports a fragment, so
 things like <tt class="docutils literal"><span class="pre">&lt;creating-a-theme#starting-from-somewhere&gt;</span></tt> should work. You can also use the title, and
 Nikola will slugify it for you, so <tt class="docutils literal">Creating a theme</tt> is also supported.</p>
@@ -2824,7 +2824,7 @@ corresponding lines in your <tt class="docutils literal">conf.py</tt>:</p>
 </div>
 <div class="section" id="custom-plugins">
 <h2><a class="toc-backref" href="#id103">Custom Plugins</a></h2>
-<p>You can create your own plugins (see <a class="reference external" href="../extending/">Extending Nikola</a>) and use them in your own
+<p>You can create your own plugins (see <a class="reference external" href="../pages/extending/">Extending Nikola</a>) and use them in your own
 site by putting them in a <tt class="docutils literal">plugins/</tt> folder.  You can also put them in
 directories listed in the <tt class="docutils literal">EXTRA_PLUGINS_DIRS</tt> configuration variable.</p>
 </div>
@@ -2937,7 +2937,7 @@ damage caused by the software. Read the <a class="reference external" href="http
 </div>
 
 
-        <script src="../../assets/js/all-nocdn.js"></script><script>
+        <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element) {
