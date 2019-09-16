@@ -7,6 +7,20 @@
 .. description:
 .. type: text
 
+Useful Commands
+---------------
+
+::
+
+    nikola auto             builds and serves a site; automatically detects site changes,
+                            rebuilds, and optionally refreshes a browser
+    nikola build            run tasks
+    nikola check -l -f      check links and files in the generated site
+    nikola clean            clean action / remove targets
+    nikola github_deploy    deploy the site to GitHub Pages
+    nikola new_page         create a new page in the site
+    nikola new_post         create a new blog post or site page
+    nikola orphans          list all orphans
 
 References
 ----------
