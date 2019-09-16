@@ -46,6 +46,7 @@
     nikola github_deploy
 
 Nikola references:
+
 * `The Nikola Handbook <https://pages.gitlab.io/nikola/stories/handbook/>`_
 * `Creating a Site (Not a Blog) with Nikola <https://getnikola.com/creating-a-site-not-a-blog-with-nikola.html>`_
 * `Nikola Getting Started (Nikola) <https://getnikola.com/getting-started.html>`_
