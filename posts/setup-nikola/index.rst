@@ -7,6 +7,9 @@
 .. description:
 .. type: text
 
+Setup Procedure
+---------------
+
 1. Install Nikola::
 
     pip install --upgrade "Nikola[extras]"
@@ -45,7 +48,9 @@
 
     nikola github_deploy
 
-Nikola references:
+Nikola References
+-----------------
+
 * `The Nikola Handbook <https://pages.gitlab.io/nikola/stories/handbook/>`_
 * `Creating a Site (Not a Blog) with Nikola <https://getnikola.com/creating-a-site-not-a-blog-with-nikola.html>`_
 * `Nikola Getting Started (Nikola) <https://getnikola.com/getting-started.html>`_
