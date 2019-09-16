@@ -10,3 +10,4 @@
 
 * `tschutter Culinary Recipes <http://tschutter.github.io/recipes/>`_
 * `tschutter @ GitHub <https://github.com/tschutter>`_
+* `Nikola Static Site Generator <nikola-static-site-generator>`_

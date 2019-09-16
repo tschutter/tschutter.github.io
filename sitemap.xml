@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://tschutter.github.io/</loc>
-  <lastmod>2019-09-16T00:04:00Z</lastmod>
+  <lastmod>2019-09-16T15:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/2012/</loc>
@@ -116,6 +116,10 @@
  <url>
   <loc>https://tschutter.github.io/listings/hello.py.html</loc>
   <lastmod>2019-09-16T00:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/nikola-static-site-generator/</loc>
+  <lastmod>2019-09-16T15:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/path-handlers/</loc>
