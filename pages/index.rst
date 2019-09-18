@@ -8,6 +8,7 @@
 .. description:
 .. type: text
 
-* `tschutter Culinary Recipes <https://tschutter.github.io/recipes/>`_
+* `LinkedIn profile <https://www.linkedin.com/in/tom-schutter-a84b415/>`_
 * `tschutter @ GitHub <https://github.com/tschutter>`_
+* `tschutter Culinary Recipes <https://tschutter.github.io/recipes/>`_
 * `Nikola Static Site Generator <nikola-static-site-generator>`_
