@@ -7,31 +7,14 @@
 .. description:
 .. type: text
 
-- Update food.
-- Add water info.
-- Update fixme.
+- Put packing list on separate page.
+- Rather than staging gear and food...
 - Add support vehicle box.
-- Edit and upload CT Garmin data:
-   - 210250 2018-08-25-08-00-36.fit, Day 1
-   - 240541 2018-08-26-08-12-50.fit, Day 2
-   - 200379 2018-08-27-08-00-09.fit, Day 3
-   - 149608 2018-08-28-09-04-02.fit, Day 4
-   - 148052 2018-08-29-08-52-34.fit, Day 5
-   - 164203 2018-08-30-07-49-23.fit, Day 6
-   - 155654 2018-08-31-10-39-03.fit, Day 7
-   - 197367 2018-09-01-07-14-28.fit, Day 8
-   - 227154 2018-09-02-08-21-49.fit, Day 9, needs edit to cut out car
-   - 124079 2018-09-03-10-43-58.fit, Day 10
-   - 171518 2018-09-04-10-12-19.fit, Day 11
-   - 182135 2018-09-05-08-49-27.fit, Day 12
-   - 289889 2018-09-06-09-18-49.fit, Day 13 & 14
-   - 161739 2018-09-08-08-44-58.fit, Day 15
-   - 163313 2018-09-09-09-31-48.fit, Day 16
-   - 164049 2018-09-10-08-34-21.fit, Day 17
-   - 241723 2018-09-11-08-53-49.fit, Day 18
-   - 134705 2018-09-12-10-02-39.fit, Day 19, ends in Durango
-   - 183798 2018-09-13-15-01-45.fit, summit ?
 - Add pictures.
+- Update food.
+- Add water carry info.
+- Find trail book.
+- Update ???.
 
 Introduction
 ============
@@ -40,10 +23,12 @@ In late summer of 2018, I bikepacked the Colorado Trail solo.  It was
 the longest and most difficult thing I had ever done.  But it was also
 the most satisfying.
 
+I covered 585 miles and climbed 85,567 feet in 18.5 days.
+
 Despite all of my planning and preparation, I had no idea exactly how
 long this trip would take.  I just did not know how many miles I could
-do each day.  In the end it took me 18 days, but if my derailleur had
-not self-destructed I probably could have done it in 16.
+do each day.  If my derailleur had not self-destructed I probably
+could have done the trip in 17 days.
 
 Equipment and Packing List
 ==========================
@@ -63,15 +48,24 @@ I got lucky with my equipment selection.  The only exceptions were:
   would have been better to pay the weight penalty with a separate
   camera.
 
+Weight:
+
++---------------+---------+---------------+
+| **bike**      | 12.5 kg |   27.6 pounds |
++---------------+---------+---------------+
+| **equipment** |  8.2 kg |   18.1 pounds |
++---------------+---------+---------------+
+| **total**     | 21.3 kg |   45.7 pounds |
++---------------+---------+---------------+
+
 Some useful discussions and packing lists that I referenced:
 
 - `Backpacking Light Forums <http://www.backpackinglight.com/forums>`__
-
-Weight (fixme):
-
-- bike: 12.5 kg, 27.6 pounds
-- equipment: 8.2 kg, 18.1 pounds
-- total: 21.3 kg, 45.7 pounds
+- `Foodpacking: Bikepacking Meal Plans By 6 Riders
+  <http://www.bikepacking.com/plog/bikepacking-meal-planning-foodpacking-1/>`__
+- `Foodpacking (Vol. 2): Bikepacking Food By Brendan, Skyler & Donnie
+  <http://www.bikepacking.com/plog/foodpacking-vol-2-bikepacking-food-packlists/>`__
+- `Backpacker's Pantry <http://www.backpackerspantry.com/>`__
 
 Bike
 ----
@@ -88,7 +82,8 @@ Handlebar bag
 - Sea to Summit Ultra-Sil Dry Sack (20 L)
 - Radiant Double Bubble Pad $30
 - Garbage bag
-- Flicker 40 Nano Quilt Sleeping Bag `$279 at featheredfriends.com <http://featheredfriends.com/flicker-40-nano-down-quilt-sleeping-bag.html>`__
+- Flicker 40 Nano Quilt Sleeping Bag `$279 at featheredfriends.com
+  <http://featheredfriends.com/flicker-40-nano-down-quilt-sleeping-bag.html>`__
 - Cocoon Mummy Liner (silk sleeping bag liner)
 - Aeros Ultralight Pillow
 - Explorer Ultralite Asym Hammock
@@ -136,13 +131,20 @@ Frame bag
 - 30' paracord `$10 at amazon.com <http://www.amazon.com/ParacordPlanet-Cord-Hank-Type-Paracord/dp/B00E63091M/>`__
 - Ultralight tent stakes (4)
 - Xero Genesis sandals (for camp)
-- Wool socks (for camp)
+- Wool tabi socks (for camp, toe division for sandals) `$13 at
+  sousouus.com
+  <https://www.sousouus.com/product/tabi-socks-wool-navygrey/>`__
 - Deuce of Spades cathole shovel
-- Microfiber towel `$13 at amazon.com <http://www.amazon.com/Sea-Summit-Anti-Bacterial-Treatment-X-Small/dp/B00GDGVIQA>`__
-- Dr Bronners soap `amazon.com <http://www.amazon.com/Dr-Bronners-Organic-Castile-Liquid/dp/B00013YZ7U>`__
-- TOAKS long spoon `$11 at amazon.com <http://www.amazon.com/TOAKS-Titanium-Handle-Spoon-Polished/dp/B00J1BV01C/ref=sr_1_1>`__
-- Evernew water carrier 2000 ml `$10 at amazon.com <http://www.amazon.com/EVERNEW-EBY208-Evernew-Water-2000Ml/dp/B000AQYY5Q/ref=sr_1_2>`__
-- CatEye Volt 300 Headlight `$60 at amazon.com <http://www.amazon.com/CatEye-Volt-300-Rechargeable-Headlight/dp/B00FNCXVQK/ref=sr_1_2>`__
+- Microfiber towel `$13 at amazon.com
+  <http://www.amazon.com/Sea-Summit-Anti-Bacterial-Treatment-X-Small/dp/B00GDGVIQA>`__
+- Dr Bronners soap `amazon.com
+  <http://www.amazon.com/Dr-Bronners-Organic-Castile-Liquid/dp/B00013YZ7U>`__
+- TOAKS long spoon `$11 at amazon.com
+  <http://www.amazon.com/TOAKS-Titanium-Handle-Spoon-Polished/dp/B00J1BV01C/ref=sr_1_1>`__
+- Evernew water carrier 2000 ml `$10 at amazon.com
+  <http://www.amazon.com/EVERNEW-EBY208-Evernew-Water-2000Ml/dp/B000AQYY5Q/ref=sr_1_2>`__
+- CatEye Volt 300 Headlight `$60 at amazon.com
+  <http://www.amazon.com/CatEye-Volt-300-Rechargeable-Headlight/dp/B00FNCXVQK/ref=sr_1_2>`__
 - Nitecore NU20 360 Lumens Rechargeable Lightweight LED Headlamp
 
 Gas tank bag
@@ -231,24 +233,24 @@ On person
 Food
 ----
 
+- AlpineAire?
 - Instant oatmeal
 - Granola bars
-  http://www.mypatriotsupply.com/Emergency_Survival_Food_s/104.htm
-- [[http://www.bikepacking.com/plog/bikepacking-meal-planning-foodpacking-1/][Foodpacking: Bikepacking Meal Plans By 6 Riders]]
-- [[http://www.bikepacking.com/plog/foodpacking-vol-2-bikepacking-food-packlists/][Foodpacking (Vol. 2): Bikepacking Food By Brendan, Skyler & Donnie]]
-- [[http://www.backpackerspantry.com/][Backpacker's Pantry]], use ~adventurefuel~ for 40% off orders of $30 or more.
-- AlpineAire?
 - Almond butter
 - Skittles
 - Tuna packets
 - Tortillas
 - Nuun elecotrolyte beverage tablets
-- Bars
 - Dried mango
 - Gorp
 
 Day 1 - Saturday 2018-08-25
 ===========================
+
+- Segments 1, 2 and 3.
+- 35.0 mi
+- 6,158 ft
+- `Strava <https://www.strava.com/activities/1942090854>`__
 
 I met Rachel and Liam from New Mexico in the parking lot.  They are
 thru biking to Durango.
@@ -267,6 +269,11 @@ Camped at intersection with Redskin Creek Trail.
 
 Day 2 - Sunday 2018-08-26
 =========================
+
+- Segment 3, Lost Creek Wilderness detour.
+- 65.1 mi
+- 6,818 ft
+- `Strava <https://www.strava.com/activities/1942090785>`__
 
 Liam and Rachel passed me before I got moving in the morning.  But I
 passed them mid-day.
@@ -292,6 +299,11 @@ dinner.
 Day 3 - Monday 2018-08-27
 =========================
 
+- Segments 5 and 6.
+- 31.9 mi
+- 5,400 ft
+- `Strava <https://www.strava.com/activities/1942090853>`__
+
 I had oatmeal and hot chocolate for breakfast.  Then the owner came
 out and asked if I wanted anything from the store.  So I also had a
 microwaved sausage, egg, and cheese biscuit and a chocolate milk!
@@ -304,6 +316,11 @@ to Gunnison.  She was extremely tired.
 
 Day 4 - Tuesday 2018-08-28
 ==========================
+
+- Segments 6 and 7.
+- 20.5 mi
+- 3,937 ft
+- `Strava <https://www.strava.com/activities/1942090803>`__
 
 I froze my ass off last night. Probably set up camp too close to the
 water.  And I need to bring more clothes into the hammock.
@@ -321,23 +338,29 @@ Met a middle aged couple thru packing the CDT northbound.
 Day 5 - Wednesday 2018-08-29
 ============================
 
-Again I froze my ass off last night.  Maybe the fly is to high.  Also
-a good idea to get my face as close as possible to the screen so my
-moisture laden breath goes out.
+- Segments 7 and 8.
+- 16.2 mi
+- 4,236 ft
+- `Strava <https://www.strava.com/activities/1942090837>`__
+
+Again I froze my ass off last night.  Maybe the fly is to high and
+letting too much of a breeze to come through.  Also a good idea to get
+my face as close as possible to the screen so my moisture laden breath
+goes out.
 
 Took my first dump in 4 days!
 
-Liam and Rachel caught up to me about a mile before the top of the
-pass.  At that time we met an eastbound thru biker who started on
-Thursday.  His goal was eight days.  He should be on leaderboard.
-When we got to the bike path at Copper, Rachel noticed that my
-handlebar bag was gone!  I went back up the trail about a mile before
-I found it.  Luckily it was only a foot off of the trail, it could
-have rolled hundreds of feet down the hill and I would have never
-found it.
+Liam and Rachel caught up to me about a mile before the crest of the
+Tenmile Range.  At that time we met an eastbound thru biker who
+started on Thursday.  His goal was eight days.  He should be on
+leaderboard.  When we got to the bike path at Copper, Rachel noticed
+that my handlebar bag was gone!  I went back up the trail about a mile
+before I found it.  Luckily it was only a foot off of the trail, it
+could have rolled hundreds of feet down the hill and I would have
+never found it.
 
 In the Conoco gas station right off of I-70, I pounded donuts, a huge
-brownie, a chocolate milk, a large lemonade, and a package of
+brownie, a chocolate milk, a large lemonade, and a large bag of
 Taco-Litos.
 
 2.5 miles up section 8, a spoke broke in my rear wheel.  I replaced it
@@ -345,6 +368,11 @@ with the FiberFix and rolled on.
 
 Day 6 - Thursday 2018-08-30
 ===========================
+
+- Segment 8, Holy Cross Wilderness bypass, Leadville.
+- 30.5 mi
+- 3,714 ft
+- `Strava <https://www.strava.com/activities/1942090809>`__
 
 I slept better last night.
 
@@ -372,11 +400,16 @@ When returning to the hostel I met Ellen, a young woman who is thru
 biking the CT.  I directed her to the hostel.  It turns out that she
 is being held hostage by the bike shop as well.
 
-Talked to John and planned on meeting him Sunday afternoon at the Mt.
-Princeton Hot Springs.
+Talked to my brother-in-law John and planned on meeting him Sunday
+afternoon at the Mt. Princeton Hot Springs.
 
 Day 7 - Friday 2018-08-31
 =========================
+
+- Leadville, Holy Cross Wilderness bypass, segment 11 and Collegiate Peaks Wilderness bypass.
+- 35.0 mi
+- 3,458 ft
+- `Strava <https://www.strava.com/activities/1942090830>`__
 
 Had a big breakfast with two large chocolate milks at the Golden
 Burro.
@@ -388,8 +421,8 @@ picked up some taint lube, maybe that will help with my rash.
 
 At about 13:00 I met three ex-army guys that were climbing
 Mt. Elbert. They were carrying 40 to 60 pound packs with some Coors
-Lite for the summit.  Crazy starting that late.  I told then to start
-earlier next time and to carry whiskey instead.
+Lite for the summit.  They were crazy starting that late.  I told then
+to start earlier next time and to carry whiskey instead.
 
 Ellen caught up with me mid-day.  It was a surprise because I thought
 she was ahead of me.  We rode the rest of the day together.  She is a
@@ -401,6 +434,11 @@ to resupply and continue.
 
 Day 8 - Saturday 2018-09-01
 ===========================
+
+- Collegiate Peaks Wilderness bypass, Buena Vista and segments 13 and 14.
+- 47.0 mi
+- 5,397 ft
+- `Strava <https://www.strava.com/activities/1942090884>`__
 
 Rode with Ellen all day. She says I am faster, but she chugs along.
 So after my breaks we are a good match.
@@ -419,13 +457,20 @@ Then Ellen went down while were descending a dirt road.  She got
 caught in a rut and washed out. She was lucky to escape with only some
 road rash.
 
-Mt. Princeton Hot Springs is much fancier than I remember.
+Mt. Princeton Hot Springs is much fancier than I remember, but I did
+not stop.
 
 A aerospace guy interning in Colorado Springs joined us for dinner.
 Somehow he had his fuel container yet he had lost his stove.
 
 Day 9 - Sunday 2018-09-02
 =========================
+
+- Segments 14 and 15.
+- 20.8 mi
+- 7,505 ft
+- `Strava <https://www.strava.com/activities/1942090880>`__ and
+  `Strava <https://www.strava.com/activities/1948321942>`__
 
 I missed the remains of my cookie when packing up in the dark.  Some
 critter pulled it out of the plastic wrap and ate around the edges.
@@ -438,14 +483,15 @@ addition, I discovered that there was almost nothing left to my front
 brake pads.  This caused me to be an hour late getting too the end of
 Segment 14 where John was going to meet me.
 
-But it turned out that Roo and Cecile were the ones to meet me.  They
-hiked a couple hundred yards up the trail to greet me.  We then drove
-down to Salida to go to Absolute Bicycles to get new brake pads and
-have someone look at my derailleur.  Some guy who maybe actually did
-not work there took a look.  He had a tattoo for the 2015 Tour Divide.
-He said that it just needed some lube and slight adjustment.  In
-hindsight I should have had him try to backpedaling which seemed to
-cause problems.  He did not charge me for labor, just for the pads.
+But it turned out that my sister and mother-in-law were the ones to
+meet me.  They hiked a couple hundred yards up the trail to greet me.
+We then drove down to Salida to go to Absolute Bicycles to get new
+brake pads and have someone look at my derailleur.  Some guy who maybe
+actually did not work there took a look.  He had a tattoo for the 2015
+Tour Divide.  He said that it just needed some lube and slight
+adjustment.  In hindsight I should have had him try to backpedaling
+which seemed to cause problems.  He did not charge me for labor, just
+for the pads.
 
 In the shop I met two guys that were biking the divide southbound.  I
 do not remember how much time they had allocated.  They were on an
@@ -470,12 +516,17 @@ from the water.
 Day 10 - Monday 2018-09-03
 ==========================
 
+- Segment 15 and Salida.
+- 31.9 mi
+- 1,257 ft
+- `Strava <https://www.strava.com/activities/1942090856>`__
+
 In the middle of the night it started raining on and off.  Around
 04:00 it settled down to a steady rain.  Since the sky was clear when
 I went to bed, I had laid out my jersey and chamois out to air out.
 Now they are soaked.
 
-It turned out that I had camped much closer to the top than I thought,
+It turned out that I had camped much closer to the top than I thought;
 it was less than 2 miles. It was barely misting as I started to climb,
 but it turned to snow near the top.
 
@@ -508,17 +559,22 @@ long weekend.
 Day 11 - Tuesday 2018-09-04
 ===========================
 
+- Salida and segment 16.
+- 34.8 mi
+- 5,561 ft
+- `Strava <https://www.strava.com/activities/1942090885>`__
+
 Staying at the hotel made it easy to dry out all of my stuff.  But
 then I remembered that I should really pick up a pad to put under me
-in the hammock to reduce heat loss. That is when I discovered that
-nothing opened before 10:00.
+in the hammock to reduce heat loss. That is when I again discovered
+that nothing opens before 10:00 in these mountain towns.
 
 Sitting on the path next to the Arkansas River waiting for the shop to
 open, a guy walking his dog walked up and asked if I was touring.  I
 immediately recognized his voice and I asked if his name was Matt and
 he said yes.  I told him that I was sorry that I did not have any
 maple flavored jelly beans.  I told my derailleur story and we talked
-about riding the crowd ??? and Marshall pass.
+about riding the CT Marshall Pass.
 
 Bought a Therm-a-Rest Z Lite Sleeping Pad at Salida Mountain Sports.
 It is a full length pad, so I immediately pulled out my knife and cut
@@ -537,12 +593,17 @@ At Tank 7 Creek, there were two ladies camping (one who tend your to
 be Bridget from Quebec).  One (Bridget) is thru hiking southbound and
 the other is doing Silverton to Breckenridge northbound.  Had a
 difficult time finding a suitable location for my hammock.  It started
-raining right as I finished setting up the hammock.  I Had to go to
+raining right as I finished setting up the hammock.  I had to go to
 bed with only a tablespoon of peanut butter for dinner.  I have a
 cookie, but once I was in the hammock, it was inaccessible.
 
 Day 12 - Wednesday 2018-09-05
 =============================
+
+- Segments 16 and 17.
+- 24.5 mi
+- 4,222 ft
+- `Strava <https://www.strava.com/activities/1942090887>`__
 
 It lightly rained early in the morning before I got up.  Luckily I got
 a break and it stopped as I was packing up.  But then 15 minutes
@@ -559,7 +620,7 @@ I saw a northbound thru hiker near the end of the segment, but I was
 off of the trail lubing my taint and did not have much
 conversation.  This was about when the rain stopped.
 
-I wanted to visit the monument, but I passed it without seeing it.  I
+I wanted to visit the ??? monument, but I passed it without seeing it.  I
 did see it when I stopped at the end of the segment.
 
 I met a northbound thru hiker as he wad stopping to put on his rain
@@ -592,25 +653,30 @@ The trail was extremely rocky, so progress was slow. There was some
 nice flowy singletrack at the end though.
 
 Because of the late hour, I set up camp near the beginning of Segment
-? Unfortunately right across the valley from the highway.  At least
+18.  Unfortunately right across the valley from the highway.  At least
 the traffic is infrequent.
 
 Day 13 - Thursday 2018-09-06
 ============================
 
+- Segment 18, La Garita Wilderness bypass.
+- 50.0 mi
+- 3,476 ft
+- `Strava <https://www.strava.com/activities/1942090960>`__
+
 I saw very few people today.
 
 The first half of the detour was pretty desolate.  When I had lunch it
 was very sunny and I was able to lay out my stuff in the grass to dry.
-Once I got to half done lakes, a 25 to 30 mph headwind kicked up.  I
-could not complain because it kept the storms away.  But 5 miles from
-the top off Los Pinos pass, I was caught in the rain.  I kept seeing
-what i thought might be moose tracks in the muddy road, but I was not
-absolutely positive.  Then I came upon a moose in a beaver pond right
-by the road!  It most have been 30 feet away!
+Once I got to Upper Dome Reservoir, a 25 to 30 mph headwind kicked up.
+I could not complain because it kept the storms away.  But 5 miles
+from the top off Los Pinos pass, I was caught in the rain.  I kept
+seeing what i thought might be moose tracks in the muddy road, but I
+was not absolutely positive.  Then I came upon a moose in a beaver
+pond right by the road!  It most have been 30 feet away!
 
 Again, the elevation profile in the map book did not seem to match
-reality.  I rode down Los Pinos pass in the rain, not very fun.  I was
+reality.  I rode down Los Pinos Pass in the rain, not very fun.  I was
 going to camp once I got to the Cebolla Creek turn, but it was all
 private property, so I was forced to keep riding.  I went through a
 couple of very cool canyons at this point.  I ended up camping in a
@@ -620,6 +686,11 @@ look no further.  It was a 50 mile day.
 
 Day 14 - Friday 2018-09-07
 ==========================
+
+- La Garita Wilderness bypass, segment 22.
+- 21.6 mi
+- 4,671 ft
+- `Strava <https://www.strava.com/activities/1948364797>`__
 
 After Slumgullion Pass, I could see Baldy Cinco on the left.
 
@@ -641,20 +712,25 @@ Nevada.  The yurt only holds 8 so I was lucky to have a spot.
 Day 15 - Saturday 2018-09-08
 ============================
 
+- Segments 22 and 23.
+- 18.8 mi
+- 4,327 ft
+- `Strava <https://www.strava.com/activities/1942090916>`__
+
 The beginning of the day was slow because of the elevation and
 rockiness of the trail.  A there was an extreme climb 3 miles after
 the yurt.
 
 Extremely beautiful.
 
-3 marmots together before Cooney.
+3 marmots together before Cooney ???.
 
 I had lunch in a beautiful valley 2 miles after the start of Segment
 23 with a marmot and a pika.  The first half of the valley was smooth
 singletrack, the second half was hike-a-bike.
 
 Talked to a hiker that had already setup his camp at 1609 before
-something saddle.  He was going from gambling to Silverton via Molas
+??? something saddle.  He was going from ??? gambling to Silverton via Molas
 Pass.
 
 My target was to finish Segment 23 today so I could get below treeline
@@ -667,6 +743,11 @@ from the bunk bed rail at the yurt.
 Day 16 - Sunday 2018-09-09
 ==========================
 
+- Segment 23, Weminuche Wilderness bypass, and segment 25.
+- 25.1 mi
+- 3,799 ft
+- `Strava <https://www.strava.com/activities/1942090945>`__
+
 It started raining at about 04:30 today.  My bivy setup worked well
 and I did not get wet, although there was water on one corner of the
 garbage bag ground cloth.
@@ -675,10 +756,10 @@ While I was packing up I saw clouds a few hundred feet below me.
 
 It was cold and I was short on water so I skipped breakfast.
 
-The guaranteed water at 16.5? Was not there, just two mud flats.
+The guaranteed water at 16.5??? Was not there, just two mud flats.
 
 Again there was a lot of hike-a-bike today.  Elevation was the biggest
-reason.  Saw a lot of marmots.
+reason.  I saw a lot of marmots.
 
 I did not see anyone today on the trail except for a young woman day
 hiker near the end of Segment 23 when I was getting water.
@@ -693,7 +774,7 @@ Lunch in Silverton at Avalanche Brewing Company was a Hawaiian pizza,
 2 beers, and cinnamon pizza dough dessert.  I had a Butterfinger ice
 cream bar at grocery store.
 
-Climb up Molas Pass was long, but the grade was constant and the
+The climb up Molas Pass was long, but the grade was constant and the
 weather perfect.  I met an older couple at the pass who are hiking
 from Waterton to Durango.  They camped next to me about 1 mile into
 Segment 25.
@@ -704,9 +785,14 @@ Smooth singletrack, dirt instead of rocks, lower elevation, and trees!
 Day 17 - Monday 2018-09-10
 ==========================
 
+- Segments 25 and 26.
+- 20.9 mi
+- 4,242 ft
+- `Strava <https://www.strava.com/activities/1942090973>`__
+
 I met a young girl with an umbrella as a substitute for one trekking
 pole.  She was hiking from Durango to Breckenridge or further if
-weather holds.
+the weather holds.
 
 Pellet snow and rain 1 mile before first pass.
 
@@ -715,9 +801,9 @@ and he wants to finish before he is 70.  Had 1.5 years left.  His wife
 no longer drives him to trail heads.
 
 Meet 3 hunters 1/2 mile before ??? Pass.  They barely grunted a
-greeting.
+greeting.  They probably thought I was scaring away all of the game.
 
-Cold and windy at pass.
+Cold and windy at the pass.
 
 Passed 2 young guys with a dog thru hiking to Durango.  Started Aug 1.
 Doing in memory of their grandfather who hiked the trail in his 60s
@@ -728,8 +814,8 @@ it was hard to leave.  But I would not want to drink the water (even
 if was filtered) because it had stained all of the rocks orange.  A
 creek later on stained them all white.
 
-About 0.75 miles into Segment 26 I was traversing a steep slope in my
-lowest gear.  This is when my front wheel usually begins to wander.
+About 3/4 of a mile into Segment 26 I was traversing a steep slope in
+my lowest gear.  This is when my front wheel usually begins to wander.
 Well, this time it wandered over the edge and took me with it.  I
 tumbled about 20 feet down the steep slope (maybe 45 degrees?)  until
 I was brought up short by a tree.  Scrapes on my elbows and knees, but
@@ -740,6 +826,11 @@ point, I was just tired.
 
 Day 18 - Tuesday 2018-09-11
 ===========================
+
+- Segments 26, 27 and 28.
+- 33.1 mi
+- 5,591 ft
+- `Strava <https://www.strava.com/activities/1942091020>`__
 
 A elk bugled for about 15 minutes staring at about 04:00.  He did it a
 couple more times later in the morning.
@@ -775,6 +866,11 @@ found one at 19:45.  I had to setup in the dark.
 
 Day 19 - Wednesday 2018-09-12
 =============================
+
+- Segment 28.
+- 22.2 mi
+- 1,798 ft
+- `Strava <https://www.strava.com/activities/1942090997>`__
 
 Because it was the last day, I started late at 10:00.
 
