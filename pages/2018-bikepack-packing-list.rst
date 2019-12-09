@@ -10,7 +10,8 @@
 In late summer of 2018, I bikepacked the Colorado Trail solo.  I got
 lucky with my equipment selection.  The only exceptions were:
 
-- I did not use most of the first aid kit, but that was a good thing.
+- Except for the Leukotape for blisters and Ibuprofen for soreness, I
+  did not use most of the first aid kit, but that was a good thing.
 - I did not use most of the bike tools, again a good thing.
 - I did not use the pair of Gortex socks.
 - The sleeping bag was a little too light for sleeping in the hammock
