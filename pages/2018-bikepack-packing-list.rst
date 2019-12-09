@@ -7,8 +7,9 @@
 .. description:
 .. type: text
 
-In late summer of 2018, I bikepacked the Colorado Trail solo.  I got
-lucky with my equipment selection.  The only exceptions were:
+In late summer of 2018, I `bikepacked the Colorado Trail
+<../2018-bikepack-of-the-ct>`__.  I got lucky with my equipment
+selection.  The only exceptions were:
 
 - Except for the Leukotape for blisters and Ibuprofen for soreness, I
   did not use most of the first aid kit, but that was a good thing.
