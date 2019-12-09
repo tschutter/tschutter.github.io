@@ -8,11 +8,8 @@
 .. type: text
 
 - Put packing list on separate page.
-- Rather than staging gear and food...
-- Add support vehicle box.
 - Add pictures.
 - Update food.
-- Add water carry info.
 - Find trail book.
 - Update ???.
 
@@ -23,12 +20,24 @@ In late summer of 2018, I bikepacked the Colorado Trail solo.  It was
 the longest and most difficult thing I had ever done.  But it was also
 the most satisfying.
 
-I covered 585 miles and climbed 85,567 feet in 18.5 days.
+I covered 585 miles and climbed 85,567 feet in 18.5 days.  If my
+derailleur had not self-destructed I probably could have done the trip
+in 17 days.
 
 Despite all of my planning and preparation, I had no idea exactly how
 long this trip would take.  I just did not know how many miles I could
-do each day.  If my derailleur had not self-destructed I probably
-could have done the trip in 17 days.
+do each day.  Rather than trying to do something like mail drops, I
+took advantage of the fact that my sister lives in Colorado as well.
+I provisioned a large tub with extra food and stuff.  I could then
+give her a call and have her meet me at the end of a segment.  I used
+this option only once on day 9 to grab some freeze-dried food and
+brake pads.  Well and also a big fat burrito.
+
+Another worry was water.  2018 was an extremely dry year in the
+Colorado Rockies.  Except for one on day 16, all of the water sources
+in the Colorado Trail Databook had plenty of water, even the ones
+marked seasonal or unreliable.  I could carry up to 4.5 liters of
+water, but usually I only carried less than 3.
 
 Equipment and Packing List
 ==========================
@@ -348,16 +357,14 @@ letting too much of a breeze to come through.  Also a good idea to get
 my face as close as possible to the screen so my moisture laden breath
 goes out.
 
-Took my first dump in 4 days!
-
 Liam and Rachel caught up to me about a mile before the crest of the
 Tenmile Range.  At that time we met an eastbound thru biker who
 started on Thursday.  His goal was eight days.  He should be on
-leaderboard.  When we got to the bike path at Copper, Rachel noticed
-that my handlebar bag was gone!  I went back up the trail about a mile
-before I found it.  Luckily it was only a foot off of the trail, it
-could have rolled hundreds of feet down the hill and I would have
-never found it.
+Colorado Trail Race leader board.  When we got to the bike path at
+Copper, Rachel noticed that my handlebar bag was gone!  I went back up
+the trail about a mile before I found it.  Luckily it was only a foot
+off of the trail, it could have rolled hundreds of feet down the hill
+and I would have never found it.
 
 In the Conoco gas station right off of I-70, I pounded donuts, a huge
 brownie, a chocolate milk, a large lemonade, and a large bag of
@@ -501,11 +508,11 @@ unfortunately they had not verified it.
 
 Got a burrito at Mo Burrito.  Ate 3/4s and saved the rest for dinner.
 
-We returned to the trail head after a detour along Hwy 285 because Roo
-took a wrong turn.  Replaced the front brake pads at which time I
-found that one of the old pads was down to bare metal.  Then I stocked
-up on food and went on my way.  But I forgot to grab a 8mm hex wrench
-from my supply box.
+We returned to the trail head after a detour along Hwy 285 because my
+sister took a wrong turn.  Replaced the front brake pads at which time
+I found that one of the old pads was down to bare metal.  Then I
+stocked up on food and went on my way.  But I forgot to grab a 8mm hex
+wrench from my supply box.
 
 I wanted to get over the hump on Segment 15 today, but I gave up 2
 miles from the top at 18:00.  I did not think that I could get over
