@@ -10,7 +10,6 @@
 - Add pictures.
 - Update food.
 - Find trail book.
-- Update ???.
 
 Introduction
 ============
