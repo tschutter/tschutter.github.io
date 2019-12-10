@@ -702,4 +702,8 @@ Bikepacking Summit
 
 The `2018 Bikepacking Summit
 <https://bikepacking.com/event/2018-bikepacking-summit/>`__ was held
-from Friday 2018-09-14 to Sunday 2018-09-16 in ???.
+from Friday 2018-09-14 to Sunday 2018-09-16 in Gunnison Colorado.
+Every day there was a group ride (even an extra one on Thursday) with
+like-minded souls and even Jefe who placed second in the `2018
+Colorado Trail Race
+<https://bikepacking.com/event/2018-colorado-trail-race/>`__.
