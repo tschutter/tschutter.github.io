@@ -414,8 +414,9 @@ I saw a northbound thru hiker near the end of the segment, but I was
 off of the trail lubing my taint and did not have much
 conversation.  This was about when the rain stopped.
 
-I wanted to visit the ??? monument, but I passed it without seeing it.  I
-did see it when I stopped at the end of the segment.
+I wanted to visit the `Soldierstone
+<http://hiddencolorado.kunc.org/soldierstone/>`__ monument, but I
+passed by without seeing it.
 
 I met a northbound thru hiker as he wad stopping to put on his rain
 jacket.  I am sure that it came off 30 minutes later.
@@ -512,20 +513,19 @@ Day 15 - Saturday 2018-09-08
 - `Strava <https://www.strava.com/activities/1942090916>`__
 
 The beginning of the day was slow because of the elevation and
-rockiness of the trail.  A there was an extreme climb 3 miles after
-the yurt.
+rockiness of the trail.  There was an extreme climb 3 miles after the
+yurt.
 
-Extremely beautiful.
+This section of the trail was extremely beautiful.
 
-3 marmots together before Cooney ???.
+I saw 3 marmots together before Coney Benchmark.
 
 I had lunch in a beautiful valley 2 miles after the start of Segment
 23 with a marmot and a pika.  The first half of the valley was smooth
 singletrack, the second half was hike-a-bike.
 
-Talked to a hiker that had already setup his camp at 1609 before
-??? something saddle.  He was going from ??? gambling to Silverton via Molas
-Pass.
+Talked to a hiker that had already setup his camp.  He was heading to
+Silverton.
 
 My target was to finish Segment 23 today so I could get below treeline
 but it was slow going.  I ended up making a bivy out of my hammock for
@@ -550,7 +550,8 @@ While I was packing up I saw clouds a few hundred feet below me.
 
 It was cold and I was short on water so I skipped breakfast.
 
-The guaranteed water at 16.5??? Was not there, just two mud flats.
+The pond at mile 13.5 of segment 23 was supposed to be a reliable
+water source, but it was just two mud flats.
 
 Again there was a lot of hike-a-bike today.  Elevation was the biggest
 reason.  I saw a lot of marmots.
@@ -594,19 +595,22 @@ Met older guy returning from an out and back.  Doing the CT in pieces
 and he wants to finish before he is 70.  Had 1.5 years left.  His wife
 no longer drives him to trail heads.
 
-Meet 3 hunters 1/2 mile before ??? Pass.  They barely grunted a
-greeting.  They probably thought I was scaring away all of the game.
+Meet 3 hunters 1/2 mile before the pass south of Rolling Mountain.
+They barely grunted a greeting.  They probably thought I was scaring
+away all of the game.
 
-Cold and windy at the pass.
+It was cold and windy at the pass, so I did not stop for long.
 
 Passed 2 young guys with a dog thru hiking to Durango.  Started Aug 1.
 Doing in memory of their grandfather who hiked the trail in his 60s
 but who is now dead.
 
-Had lunch by the ??? (in seg 25) Waterfall.  It was so beautiful that
-it was hard to leave.  But I would not want to drink the water (even
-if was filtered) because it had stained all of the rocks orange.  A
-creek later on stained them all white.
+At mile 14.2 in segment 25, you cross a tributary of the Cascade
+Creek.  I walked a couple of hundred feet upstream to a waterfall
+where I had lunch.  It was so beautiful that it was hard to leave.
+But I would not want to drink the water (even if was filtered) because
+it had stained all of the rocks orange.  At a creek later on the rocks
+had been stained all white.
 
 About 3/4 of a mile into Segment 26 I was traversing a steep slope in
 my lowest gear.  This is when my front wheel usually begins to wander.
@@ -635,14 +639,12 @@ within 30 feet and then started eating grass.  Very peaceful.
 Segment 26 had plenty of singletrack with some hike-a-bike caused by
 elevation.
 
-Passed unrecognized guy again.  He thinks that he will finish on
+I passed the unrecognized guy again.  He thinks that he will finish on
 Thursday.
 
 Passed a middle aged blonde woman from Colorado Springs who is thru
 hiking.  She started at the end of July, and she thinks she will
 finish on Thursday.
-
-Peed in the ??? Wilderness area at lunch.
 
 Just as I was pulling out after lunch, the blonde woman caught up with
 me.  She said that a bear ate all of her food at Bear Creek in the
