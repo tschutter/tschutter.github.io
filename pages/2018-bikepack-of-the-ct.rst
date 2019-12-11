@@ -55,7 +55,7 @@ probably only 20 feet away from me.
 
 Met a pair of older thru hikers.
 
-Young girl hiking to Telluride in 5 to 7 weeks.
+Met a young girl hiking to Telluride in 5 to 7 weeks.
 
 Stopped at quartz mine for lunch.  I rested and waited for clouds
 before I traversed the Hayman burn area.
@@ -78,8 +78,8 @@ I ran into a hail storm at 14:00.
 I pushed hard to get to the Stagestop Saloon to get a burger and
 fries.  The vision of a greasy cheeseburger gave me the motivation to
 power through the many miles of pavement along highway 77.  When I
-arrived at 19:20 I discovered that the last call in 10 minutes.  And
-the kitchen was closed.  All that work for nothing!  I pounded two
+arrived at 19:20 I discovered that the last call was in 10 minutes.
+And the kitchen was closed.  All that work for nothing!  I pounded two
 beers in those 10 minutes.
 
 I told the bartender that I was leaving to find a campsite.  She told
@@ -157,7 +157,7 @@ brownie, a chocolate milk, a large lemonade, and a large bag of
 Taco-Litos.
 
 2.5 miles up section 8, a spoke broke in my rear wheel.  I replaced it
-with the FiberFix and rolled on.
+with the FiberFix spoke and rolled on.
 
 Day 6 - Thursday 2018-08-30
 ===========================
@@ -234,7 +234,7 @@ Day 8 - Saturday 2018-09-01
 - `Strava <https://www.strava.com/activities/1942090884>`__
 
 Rode with Ellen all day. She says I am faster, but she chugs along.
-So after my breaks we are a good match.
+So taking into account my breaks, we are a good match.
 
 Stopped in Buena Vista for a Mexican hot chocolate and a cinnamon
 roll.  Also went to City Market.  Individual drink packets seem to be
@@ -250,11 +250,11 @@ Then Ellen went down while were descending a dirt road.  She got
 caught in a rut and washed out. She was lucky to escape with only some
 road rash.
 
-Mt. Princeton Hot Springs is much fancier than I remember, but I did
+Mt. Princeton Hot Springs is much fancier than I remember, but we did
 not stop.
 
 A aerospace guy interning in Colorado Springs joined us for dinner.
-Somehow he had his fuel container yet he had lost his stove.
+He had lost his stove, yet somehow he still had his fuel container.
 
 Day 9 - Sunday 2018-09-02
 =========================
@@ -338,9 +338,9 @@ to coast all the way down to Absolute Bicycles.
 
 Scot? replaced my rear derailleur and did not charge me for labor.  He
 also adjusted my front derailleur.  There was a woman in the shop
-whose voice sounder familiar, so I asked if she was Andrea.  She said
-yes and I told her that I was sorry that I did not have any maple
-flavored jelly beans.
+whose voice sounder familiar, so I asked if her name was Andrea (from
+JRA).  She said yes and I told her that I was sorry that I did not
+have any maple flavored jelly beans.
 
 I then went to Moonlight Pizza for a calzone and a beer.  By now it
 was to late to start back up to the trail, especially because I had no
@@ -365,11 +365,11 @@ that nothing opens before 10:00 in these mountain towns.
 Sitting on the path next to the Arkansas River waiting for the shop to
 open, a guy walking his dog walked up and asked if I was touring.  I
 immediately recognized his voice and I asked if his name was Matt and
-he said yes.  I told him that I was sorry that I did not have any
-maple flavored jelly beans.  I told my derailleur story and we talked
-about riding the CT Marshall Pass.
+he said yes.  That made 2/3s of the JRA team.  I told him that I was
+sorry that I did not have any maple flavored jelly beans.  I told my
+derailleur story and we talked about riding the CT Marshall Pass.
 
-Bought a Therm-a-Rest Z Lite Sleeping Pad at Salida Mountain Sports.
+I bought a Therm-a-Rest Z Lite Sleeping Pad at Salida Mountain Sports.
 It is a full length pad, so I immediately pulled out my knife and cut
 off a third of it and handed it back to the saleslady.  She asked what
 she should do with it.  I said "make it a dog bed".  I had no need for
@@ -550,7 +550,8 @@ While I was packing up I saw clouds a few hundred feet below me.
 It was cold and I was short on water so I skipped breakfast.
 
 The pond at mile 13.5 of segment 23 was supposed to be a reliable
-water source, but it was just two mud flats.
+water source, but it was just two mud flats.  This turned out to be
+the only water failure on the entire trip.
 
 Again there was a lot of hike-a-bike today.  Elevation was the biggest
 reason.  I saw a lot of marmots.
@@ -566,7 +567,7 @@ The dirt road down from Stony Pass was very steep.
 
 Lunch in Silverton at Avalanche Brewing Company was a Hawaiian pizza,
 2 beers, and cinnamon pizza dough dessert.  I had a Butterfinger ice
-cream bar at grocery store.
+cream bar at the grocery store.
 
 The climb up Molas Pass was long, but the grade was constant and the
 weather perfect.  I met an older couple at the pass who are hiking
@@ -588,7 +589,7 @@ I met a young girl with an umbrella as a substitute for one trekking
 pole.  She was hiking from Durango to Breckenridge or further if
 the weather holds.
 
-Pellet snow and rain 1 mile before first pass.
+Endured pellet snow and rain 1 mile before first the pass.
 
 Met older guy returning from an out and back.  Doing the CT in pieces
 and he wants to finish before he is 70.  Had 1.5 years left.  His wife
