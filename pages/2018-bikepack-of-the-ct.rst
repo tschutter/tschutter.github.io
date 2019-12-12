@@ -57,8 +57,11 @@ Met a pair of older thru hikers.
 
 Met a young girl hiking to Telluride in 5 to 7 weeks.
 
-Stopped at quartz mine for lunch.  I rested and waited for clouds
-before I traversed the Hayman burn area.
+Stopped at the abandoned quartz mine at mile 1.1 in segment 2 for
+lunch.  The truck that was converted to pull ore carts out of the mine
+was kinda cool.  The sun was blazing and this was the hottest spot on
+the entire trail.  So I rested and waited for clouds before I
+traversed the Hayman burn area.
 
 Camped at intersection with Redskin Creek Trail.
 
