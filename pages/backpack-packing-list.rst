@@ -1,6 +1,6 @@
-.. title: 2018 Bikepack Packing List
-.. slug: 2018-bikepack-packing-list
-.. date: 2019-12-09 16:10:00-07:00
+.. title: Backpack Packing List
+.. slug: backpack-packing-list
+.. date: 2020-06-09 20:54:28-07:00
 .. tags:
 .. category:
 .. link:

@@ -13,3 +13,4 @@
 * `tschutter Culinary Recipes <https://tschutter.github.io/recipes/>`_
 * `Nikola Static Site Generator <nikola-static-site-generator>`_
 * `2018 Bikepack of the CT <2018-bikepack-of-the-ct>`_
+* `Backpack Packing List <backpack-packing-list>`_
