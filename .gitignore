@@ -1,6 +1,7 @@
 cache
 .doit.db*
-__pycache__
-output
-.ipynb_checkpoints
 .DS_Store
+.ipynb_checkpoints
+nikola
+output
+__pycache__
