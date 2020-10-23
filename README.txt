@@ -16,8 +16,8 @@ To deploy changes to github.io::
 
     nikola github_deploy
 
-Note that it can take up to 20 minutes for deployed changes to be seen
-at github.io.
+Note that this will auto-commit any changes.  It can take up to 20
+minutes for deployed changes to be seen at github.io.
 
 To check all available commands::
 
