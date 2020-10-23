@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://tschutter.github.io/</loc>
-  <lastmod>2020-06-10T02:59:00Z</lastmod>
+  <lastmod>2020-10-23T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/2018-bikepack-of-the-ct/</loc>
@@ -22,8 +22,16 @@
   <lastmod>2019-09-18T17:43:00Z</lastmod>
  </url>
  <url>
+  <loc>https://tschutter.github.io/2020/</loc>
+  <lastmod>2020-10-23T22:17:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://tschutter.github.io/archive.html</loc>
-  <lastmod>2020-06-10T02:59:00Z</lastmod>
+  <lastmod>2020-10-23T22:17:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/backpack-packing-list/</loc>
+  <lastmod>2020-10-23T22:17:00Z</lastmod>
  </url>
  <url>
   <loc>https://tschutter.github.io/blog/</loc>
@@ -44,5 +52,9 @@
  <url>
   <loc>https://tschutter.github.io/posts/setup-nikola/</loc>
   <lastmod>2019-09-18T17:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://tschutter.github.io/posts/upgrade-nikola-2020-10/</loc>
+  <lastmod>2020-10-23T22:17:00Z</lastmod>
  </url>
 </urlset>
