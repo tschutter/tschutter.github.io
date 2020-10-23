@@ -48,6 +48,7 @@ Update Procedure
 
 7. Disable old version of Nikola::
 
+     sudo mv /usr/local/bin/nikola /usr/local/bin/nikola-old
      cd /usr/local/lib/python3.7/dist-packages
      sudo mv nikola nikola-old
      sudo mv Nikola-8.0.2.dist-info Nikola-old-8.0.2.dist-info
