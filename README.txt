@@ -8,9 +8,16 @@ To build the site::
 
     nikola build
 
-To see it::
+To see it locally::
 
     nikola serve -b
+
+To publish changes to github.cio::
+
+    nikola publish
+
+Note that it can take up to 20 minutes for published changes to be
+seen at github.io.
 
 To check all available commands::
 
