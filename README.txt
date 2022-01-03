@@ -4,6 +4,9 @@ Installation and documentation at https://getnikola.com/
 
 Configuration file for the site is ``conf.py``.
 
+There are two git branches; the source branch is where changes should
+be made (src), and the branch where the HTML will be located (master).
+
 To build the site::
 
     nikola build
