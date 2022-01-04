@@ -75,7 +75,7 @@
 <time class="listdate" datetime="2019-09-15T17:57:42-06:00" title="2019-09-15 17:57">2019-09-15 17:57</time><a href="../../posts/setup-nikola/" class="listtitle">Setup Nikola</a><a></a>
 </li>
         </ul></article><!--End of body content--><footer id="footer">
-            Contents © 2020         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2022         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -86,9 +86,7 @@
         <script src="../../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

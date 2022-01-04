@@ -76,8 +76,7 @@ nikola build            run ">
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <div>
-<div class="section" id="useful-commands">
+    <div class="section" id="useful-commands">
 <h2>Useful Commands</h2>
 <pre class="literal-block">
 nikola auto             builds and serves a site; automatically detects site changes,
@@ -102,12 +101,11 @@ nikola orphans          list all orphans
 <li><a class="reference external" href="https://plugins.getnikola.com/">Nikola Plugins</a></li>
 </ul>
 </div>
-</div>
     </div>
     
 
 </article><!--End of body content--><footer id="footer">
-            Contents © 2020         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2022         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -118,9 +116,7 @@ nikola orphans          list all orphans
         <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

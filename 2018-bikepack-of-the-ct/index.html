@@ -79,8 +79,7 @@ the longest and most difficult thing I had ever done.  But it was also
         
 
     </header><div class="e-content entry-content" itemprop="articleBody text">
-    <div>
-<ul class="simple">
+    <ul class="simple">
 <li>Add pictures.</li>
 <li>Update food.</li>
 <li>Find trail book.</li>
@@ -680,12 +679,11 @@ Every day there was a group ride (even an extra one on Thursday) with
 like-minded souls and even Jefe who placed second in the <a class="reference external" href="https://bikepacking.com/event/2018-colorado-trail-race/">2018
 Colorado Trail Race</a>.</p>
 </div>
-</div>
     </div>
     
 
 </article><!--End of body content--><footer id="footer">
-            Contents © 2020         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2022         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -696,9 +694,7 @@ Colorado Trail Race</a>.</p>
         <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>

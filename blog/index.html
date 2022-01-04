@@ -78,8 +78,7 @@
             </p>
                 </div>
             </header><div class="e-content entry-content">
-                    <div>
-<div class="section" id="installation-changed">
+                    <div class="section" id="installation-changed">
 <h2>Installation Changed</h2>
 <p>When I first installed Nikola a year ago, I just used pip3 to install
 the Nikola package.  That version of Nikola broke when Python was
@@ -131,7 +130,6 @@ sudo mv Nikola-8.0.2.dist-info Nikola-old-8.0.2.dist-info</pre>
 <li><p><a class="reference external" href="https://chriswarrick.com/blog/2018/09/04/python-virtual-environments/">Python Virtual Environments in Five Minutes</a></p></li>
 <li><p><a class="reference external" href="https://docs.python.org/3/library/venv.html">venv — Creation of virtual environments</a></p></li>
 </ul>
-</div>
 </div>
                 </div>
             </article><article class="h-entry post-text" itemscope="itemscope" itemtype="http://schema.org/Article"><header><h1 class="p-name entry-title"><a href="../posts/setup-nikola/" class="u-url">Setup Nikola</a></h1>
@@ -193,6 +191,8 @@ git push -u origin master</pre>
     
 
     
+    
+
 
     
 
@@ -200,7 +200,7 @@ git push -u origin master</pre>
         <!--End of body content-->
 
         <footer id="footer">
-            Contents © 2020         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            Contents © 2022         <a href="mailto:t.schutter@comcast.net">Tom Schutter</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
         </footer>
@@ -211,9 +211,7 @@ git push -u origin master</pre>
         <script src="../assets/js/all-nocdn.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
+        captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
 </body>
 </html>
